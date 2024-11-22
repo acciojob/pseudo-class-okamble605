@@ -1,12 +1,4 @@
-/*  your css code here. If applicable */
-/* Styling for the main container */
-#container {
-    margin: 20px;
-    padding: 20px;
-    border: 2px solid #ccc;
-    background-color: #f9f9f9;
-    font-family: Arial, sans-serif;
-}
+
 
 /* Pseudo-element before the container */
 #container::before {
